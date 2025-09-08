@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React.js, Tailwind CSS, Firebase**
 
-- 📫 How to reach me **shanidevkashyap8923@gmail.com**
+- 📫 How to reach me **shanidevkashyap8912@gmail.com**
 
 - ⚡ Fun fact: *I love exploring new tools and techniques in frontend development!*
 
