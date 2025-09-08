@@ -1,18 +1,18 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Shani Dev Kashyap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **[Netflix-GPT](https://github.com/Shani4658/netflix-gpt)**  
-   *A chatbot application integrating GPT for personalized Netflix recommendations.*
+- 🔭 I’m currently working on **[BuzzTube](https://github.com/Shani4658/BuzzTube)**  
+   *BuzzTube : A video streaming platform *
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **React.js, Tailwind CSS, Firebase**
 
-- 📫 How to reach me **shanidevkashyap8913@gmail.com**
+- 📫 How to reach me **shanidevkashyap8923@gmail.com**
 
 - ⚡ Fun fact: *I love exploring new tools and techniques in frontend development!*
 
@@ -60,6 +60,4 @@
 <h3 align="left">What's Next?</h3>
 - I’m looking forward to collaborating on open-source projects or working on innovative frontend challenges.  
 
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Shani4658&color=blue)
-</p>
+
